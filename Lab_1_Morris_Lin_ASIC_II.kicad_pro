@@ -690,7 +690,7 @@
         "uuid": "fd1324de-06cc-4eb6-9701-e191d26a4c5f"
       }
     ],
-    "used_designators": "JP1-16,H1-4,#PWR1-42,U1,IC1-6,J1-6",
+    "used_designators": "JP1-16,H1-4,#PWR1-42,U1-2,IC1-6,J1-6",
     "variants": []
   },
   "sheets": [
