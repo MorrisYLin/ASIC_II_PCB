@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ASIC_II") (type "KiCad") (uri "${KIPRJMOD}/Sym_Lib_ASIC_II/ASIC_II.kicad_sym") (options "") (descr ""))
+)
