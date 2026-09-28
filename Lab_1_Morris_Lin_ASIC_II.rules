@@ -1,0 +1,77 @@
+
+(rules PCB Lab_1_Morris_Lin_ASIC_II.dsn
+  (snapAngle 
+    fortyfive_degree
+  )
+  (rule
+    (width 200.0)
+    (clearance 200.0)
+    (clearance 100.0 (type smd_to_turn_gap))
+    (clearance 50.0 (type smd))
+    (clearance 200.0 (type Power,Default))
+    (clearance 500.0 (type "board_edge"))
+  )
+  (padstack "Via[0-3]_600:300_um"
+    (shape
+      (circle F.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle In1.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle In2.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 600.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-3]_600:300_um" "Via[0-3]_600:300_um" default
+  )
+  (via 
+    "Via[0-3]_600:300_um-Power,Default" "Via[0-3]_600:300_um" Power,Default
+  )
+  (viaRule
+    default "Via[0-3]_600:300_um"
+  )
+  (viaRule
+    default "Via[0-3]_600:300_um"
+  )
+  (viaRule
+    Power,Default "Via[0-3]_600:300_um-Power,Default"
+  )
+  (class default
+    "Net-(J1-Pin_1)" "/s_clk_Q3" /~{OE} "/s_clk_Q2" "Net-(D7-A)" "/s_clk_Q1" "/s_in_Q1" "/s_update_Q1"
+    "/s_out_Q1" "/Kvld_Q1" "/Dvld_Q1" "/Dvld_Q3" "/Kvld_Q3" "/s_out_Q3" "/s_update_Q3" "/s_in_Q3"
+    "/CLK_Q3" "/RSTn_Q3" "/Krdy_Q3" "/Drdy_Q3" "/BSY_Q3" "/BSY_Q4" "/Drdy_Q4" "/Krdy_Q4"
+    "/RSTn_Q4" "/CLK_Q4" "/s_clk_Q4" "/s_in_Q4" "/s_update_Q4" "/s_out_Q4" "/Kvld_Q4" "/Dvld_Q4"
+    "/Dvld_Q2" "/Kvld_Q2" /VDDPOC "/s_out_Q2" "/s_update_Q2" "/s_in_Q2" "/CLK_Q2" "/RSTn_Q2"
+    "/Krdy_Q2" "/Drdy_Q2" "/BSY_Q2" "/BSY_Q1" "/Drdy_Q1" "/Krdy_Q1" "/RSTn_Q1" "/CLK_Q1"
+    "Net-(D3-A)" "/SEL_b1" "/PMOD_B1" "/PMOD_B2" "/SEL_b0" "/PMOD_B3" "/PMOD_B4" "/PMOD_B7"
+    "/PMOD_B8" "/PMOD_B9" "/PMOD_B10" "unconnected-(J7-Pin_5-Pad5)" "unconnected-(J7-Pin_11-Pad11)" "unconnected-(U1-NC-Pad4)" "Net-(D6-K)" "Net-(D6-A)"
+    "/LED_Q1" "Net-(D1-A)" "Net-(D2-A)" "/PMOD_A1" "/PMOD_A2" "/PMOD_A3" "/PMOD_A4" "unconnected-(J6-Pin_5-Pad5)"
+    "/PMOD_A7" "/PMOD_A8" "/PMOD_A9" "/PMOD_A10" "unconnected-(J6-Pin_11-Pad11)" "Net-(D8-A)" "Net-(D4-A)" "/LED_Q2"
+    "/LED_Q3" "/LED_Q4" "unconnected-(U2-NC-Pad4)"
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 200.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class Power,Default
+    VDDPST "Net-(JP1-C)" GND "VDD_Q2" "Net-(JP10-A)" "VDD_Q4" VDDPMOD "VDD_Q3"
+    "VDD_Q1" "Net-(JP3-B)" "Net-(J5-Pin_1)" "Net-(J4-Pin_1)" "Net-(JP2-B)" VDD
+    (clearance_class Power,Default)
+    (via_rule Power,Default)
+    (rule
+      (width 300.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
