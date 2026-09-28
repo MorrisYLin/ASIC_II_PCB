@@ -635,31 +635,31 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Simulation",
           "name": "${EXCLUDE_FROM_SIM}",
           "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Exclude from Position Files",
           "name": "${EXCLUDE_FROM_POS_FILES}",
           "show": false
@@ -710,7 +710,7 @@
           "group_by": false,
           "label": "Mouser Part Number",
           "name": "Mouser Part Number",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -785,7 +785,7 @@
         "uuid": "fd1324de-06cc-4eb6-9701-e191d26a4c5f"
       }
     ],
-    "used_designators": "JP1-16,H1-4,#PWR1-76,U1-3,R1-58,IC1-6,J1-13,J701,C1-13,F1-2,D1-8,TP1-6,Q1-3",
+    "used_designators": "H1-4,JP1-16,#PWR1-76,U1-3,J1-13,J701,IC1-6,R1-58,C1-13,F1-2,D1-8,TP1-6,Q1-3",
     "variants": []
   },
   "sheets": [

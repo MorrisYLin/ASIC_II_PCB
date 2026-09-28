@@ -13626,6 +13626,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "595-TLV75710PDBVR"
+			(at 34.29 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "80c718ed-fa13-49ac-81d7-f38ee7f07c2b")
 		)
@@ -13969,6 +13980,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 39.37 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
 			(at 39.37 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -14536,6 +14558,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 302.26 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "51b4884b-6525-4a91-9964-a4f69f20431a")
 		)
@@ -14899,6 +14932,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 322.58 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "293c1026-1df4-447a-9d91-76137d8c6c85")
 		)
@@ -14971,6 +15015,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 373.38 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 373.38 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -15568,6 +15623,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 292.1 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "384a7510-548a-495c-969c-36438b17cf8d")
 		)
@@ -15719,6 +15785,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 383.54 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 383.54 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -16482,6 +16559,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+			(at 64.77 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "08887d37-e9fb-446f-bf8a-b5519a3088fc")
 		)
@@ -16871,6 +16959,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 292.1 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 292.1 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -17840,6 +17939,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 292.1 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fe502365-49a7-493e-9367-b5c57be710e0")
 		)
@@ -18286,6 +18396,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 302.26 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f5753ba7-d5ff-450e-9a4c-4b1206064aa1")
 		)
@@ -18358,6 +18479,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 393.7 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 393.7 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -18462,6 +18594,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 120.65 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 120.65 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -18713,6 +18856,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 373.38 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bf20aaf6-0361-4979-b4ba-b56aebce7791")
 		)
@@ -18795,6 +18949,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 312.42 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dcdfd641-d6ba-4665-9b61-34a7bac4c964")
 		)
@@ -18867,6 +19032,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 312.42 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 312.42 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -19312,6 +19488,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 322.58 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 322.58 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -20850,6 +21037,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 312.42 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "87a498d7-91a4-4132-8609-2d98bd90dcdf")
 		)
@@ -20922,6 +21120,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 393.7 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 393.7 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -21136,6 +21345,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 322.58 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 322.58 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -21674,6 +21894,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 302.26 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dcdfd641-d6ba-4665-9b61-34a7bac4c965")
 		)
@@ -21825,6 +22056,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 312.42 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 312.42 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -22089,46 +22331,46 @@
 			)
 		)
 		(pin "11"
-			(uuid "26e7f529-6acd-480c-baac-c7a433a11924")
+			(uuid "26e7f529-6acd-480c-baac-c7a433a11925")
 		)
 		(pin "1"
-			(uuid "8a20b875-da06-4878-8b08-3eb2701df038")
+			(uuid "8a20b875-da06-4878-8b08-3eb2701df039")
 		)
 		(pin "9"
-			(uuid "7ea141c2-c0fb-4156-85ff-b8c5c97ab632")
+			(uuid "7ea141c2-c0fb-4156-85ff-b8c5c97ab633")
 		)
 		(pin "2"
-			(uuid "89ac7cc6-0d0d-4451-9b49-a2f2e113d531")
+			(uuid "89ac7cc6-0d0d-4451-9b49-a2f2e113d532")
 		)
 		(pin "5"
-			(uuid "4ef67704-da62-4352-9ba6-cd3efa70b495")
+			(uuid "4ef67704-da62-4352-9ba6-cd3efa70b496")
 		)
 		(pin "14"
-			(uuid "001a5439-49d4-4d36-824a-22af3048cf92")
+			(uuid "001a5439-49d4-4d36-824a-22af3048cf93")
 		)
 		(pin "10"
-			(uuid "19b3f9fe-af7f-485c-960b-8b1d46fe425f")
+			(uuid "19b3f9fe-af7f-485c-960b-8b1d46fe4260")
 		)
 		(pin "7"
-			(uuid "184dc182-af50-48f0-b69c-8cd5e6ffa5bd")
+			(uuid "184dc182-af50-48f0-b69c-8cd5e6ffa5be")
 		)
 		(pin "4"
-			(uuid "3630ada5-7d7a-4a9e-8583-21e970a5b4a7")
+			(uuid "3630ada5-7d7a-4a9e-8583-21e970a5b4a8")
 		)
 		(pin "8"
-			(uuid "638eff70-65c9-4ab2-8639-5003a3fd137b")
+			(uuid "638eff70-65c9-4ab2-8639-5003a3fd137c")
 		)
 		(pin "3"
-			(uuid "437626de-5aee-451b-a6cc-2ae318b9bf1f")
+			(uuid "437626de-5aee-451b-a6cc-2ae318b9bf20")
 		)
 		(pin "12"
-			(uuid "17919e0e-eb96-4285-9090-7aeddf123fc0")
+			(uuid "17919e0e-eb96-4285-9090-7aeddf123fc1")
 		)
 		(pin "13"
-			(uuid "ce264118-d4e6-4aca-a84a-e2de825f8a19")
+			(uuid "ce264118-d4e6-4aca-a84a-e2de825f8a1a")
 		)
 		(pin "6"
-			(uuid "268df76a-6d95-4e4b-b1df-e7f25d423b64")
+			(uuid "268df76a-6d95-4e4b-b1df-e7f25d423b65")
 		)
 		(instances
 			(project "Lab_1_Morris_Lin_ASIC_II"
@@ -22306,6 +22548,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "603-SMDH1206B025TF "
+			(at 57.15 25.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "98c17a78-4ced-44b0-8089-0fdfa659ecf0")
 		)
@@ -22388,6 +22641,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+			(at 106.68 227.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "436b83ea-4120-47e5-9555-76d5b852d94e")
 		)
@@ -22460,6 +22724,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 292.1 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 292.1 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -22869,6 +23144,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 322.58 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "dcdfd641-d6ba-4665-9b61-34a7bac4c966")
 		)
@@ -23113,6 +23399,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 302.26 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 302.26 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -24446,6 +24743,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "771-BSS138AK-QR"
+			(at 104.14 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e8993ce6-0cc8-4593-9964-3409c5715768")
 		)
@@ -24924,6 +25232,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 302.26 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1992ccd4-5c6a-4426-a19f-9e2687969c1b")
 		)
@@ -25176,6 +25495,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 96.52 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 96.52 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -26176,6 +26506,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+			(at 111.76 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "55f5f83d-2eff-49b2-96bf-97737d19d679")
 		)
@@ -26358,6 +26699,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "595-TLV75710PDBVR"
+			(at 34.29 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "e4e453da-d898-4308-9414-078870475f3b")
 		)
@@ -26462,6 +26814,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 115.57 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
 			(at 115.57 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -26896,6 +27259,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 312.42 149.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "12fa762f-805a-4750-830e-3faa5fe0bb1d")
 		)
@@ -27106,6 +27480,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+			(at 52.07 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3ed52bd8-a898-4903-8fe6-0bd961d5e437")
 		)
@@ -27267,6 +27652,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 383.54 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "286a6848-0c0f-4f84-8390-d8a5c035ab16")
 		)
@@ -27349,46 +27745,46 @@
 			)
 		)
 		(pin "11"
-			(uuid "26e7f529-6acd-480c-baac-c7a433a11924")
+			(uuid "26e7f529-6acd-480c-baac-c7a433a11926")
 		)
 		(pin "1"
-			(uuid "8a20b875-da06-4878-8b08-3eb2701df038")
+			(uuid "8a20b875-da06-4878-8b08-3eb2701df03a")
 		)
 		(pin "9"
-			(uuid "7ea141c2-c0fb-4156-85ff-b8c5c97ab632")
+			(uuid "7ea141c2-c0fb-4156-85ff-b8c5c97ab634")
 		)
 		(pin "2"
-			(uuid "89ac7cc6-0d0d-4451-9b49-a2f2e113d531")
+			(uuid "89ac7cc6-0d0d-4451-9b49-a2f2e113d533")
 		)
 		(pin "5"
-			(uuid "4ef67704-da62-4352-9ba6-cd3efa70b495")
+			(uuid "4ef67704-da62-4352-9ba6-cd3efa70b497")
 		)
 		(pin "14"
-			(uuid "001a5439-49d4-4d36-824a-22af3048cf92")
+			(uuid "001a5439-49d4-4d36-824a-22af3048cf94")
 		)
 		(pin "10"
-			(uuid "19b3f9fe-af7f-485c-960b-8b1d46fe425f")
+			(uuid "19b3f9fe-af7f-485c-960b-8b1d46fe4261")
 		)
 		(pin "7"
-			(uuid "184dc182-af50-48f0-b69c-8cd5e6ffa5bd")
+			(uuid "184dc182-af50-48f0-b69c-8cd5e6ffa5bf")
 		)
 		(pin "4"
-			(uuid "3630ada5-7d7a-4a9e-8583-21e970a5b4a7")
+			(uuid "3630ada5-7d7a-4a9e-8583-21e970a5b4a9")
 		)
 		(pin "8"
-			(uuid "638eff70-65c9-4ab2-8639-5003a3fd137b")
+			(uuid "638eff70-65c9-4ab2-8639-5003a3fd137d")
 		)
 		(pin "3"
-			(uuid "437626de-5aee-451b-a6cc-2ae318b9bf1f")
+			(uuid "437626de-5aee-451b-a6cc-2ae318b9bf21")
 		)
 		(pin "12"
-			(uuid "17919e0e-eb96-4285-9090-7aeddf123fc0")
+			(uuid "17919e0e-eb96-4285-9090-7aeddf123fc2")
 		)
 		(pin "13"
-			(uuid "ce264118-d4e6-4aca-a84a-e2de825f8a19")
+			(uuid "ce264118-d4e6-4aca-a84a-e2de825f8a1b")
 		)
 		(pin "6"
-			(uuid "268df76a-6d95-4e4b-b1df-e7f25d423b64")
+			(uuid "268df76a-6d95-4e4b-b1df-e7f25d423b66")
 		)
 		(instances
 			(project "Lab_1_Morris_Lin_ASIC_II"
@@ -28525,6 +28921,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 292.1 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "94f4aeed-ba37-4f4c-9b7f-abadbe967ccb")
 		)
@@ -28845,6 +29252,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+			(at 363.22 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ff512ad1-18b8-42a7-8810-a3835fcb93a5")
 		)
@@ -29108,6 +29526,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+			(at 26.67 234.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d258d3b3-ec95-4d43-a673-e8ba3c40694a")
 		)
@@ -29180,6 +29609,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 322.58 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 322.58 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -29272,46 +29712,46 @@
 			)
 		)
 		(pin "11"
-			(uuid "26e7f529-6acd-480c-baac-c7a433a11924")
+			(uuid "26e7f529-6acd-480c-baac-c7a433a11927")
 		)
 		(pin "1"
-			(uuid "8a20b875-da06-4878-8b08-3eb2701df038")
+			(uuid "8a20b875-da06-4878-8b08-3eb2701df03b")
 		)
 		(pin "9"
-			(uuid "7ea141c2-c0fb-4156-85ff-b8c5c97ab632")
+			(uuid "7ea141c2-c0fb-4156-85ff-b8c5c97ab635")
 		)
 		(pin "2"
-			(uuid "89ac7cc6-0d0d-4451-9b49-a2f2e113d531")
+			(uuid "89ac7cc6-0d0d-4451-9b49-a2f2e113d534")
 		)
 		(pin "5"
-			(uuid "4ef67704-da62-4352-9ba6-cd3efa70b495")
+			(uuid "4ef67704-da62-4352-9ba6-cd3efa70b498")
 		)
 		(pin "14"
-			(uuid "001a5439-49d4-4d36-824a-22af3048cf92")
+			(uuid "001a5439-49d4-4d36-824a-22af3048cf95")
 		)
 		(pin "10"
-			(uuid "19b3f9fe-af7f-485c-960b-8b1d46fe425f")
+			(uuid "19b3f9fe-af7f-485c-960b-8b1d46fe4262")
 		)
 		(pin "7"
-			(uuid "184dc182-af50-48f0-b69c-8cd5e6ffa5bd")
+			(uuid "184dc182-af50-48f0-b69c-8cd5e6ffa5c0")
 		)
 		(pin "4"
-			(uuid "3630ada5-7d7a-4a9e-8583-21e970a5b4a7")
+			(uuid "3630ada5-7d7a-4a9e-8583-21e970a5b4aa")
 		)
 		(pin "8"
-			(uuid "638eff70-65c9-4ab2-8639-5003a3fd137b")
+			(uuid "638eff70-65c9-4ab2-8639-5003a3fd137e")
 		)
 		(pin "3"
-			(uuid "437626de-5aee-451b-a6cc-2ae318b9bf1f")
+			(uuid "437626de-5aee-451b-a6cc-2ae318b9bf22")
 		)
 		(pin "12"
-			(uuid "17919e0e-eb96-4285-9090-7aeddf123fc0")
+			(uuid "17919e0e-eb96-4285-9090-7aeddf123fc3")
 		)
 		(pin "13"
-			(uuid "ce264118-d4e6-4aca-a84a-e2de825f8a19")
+			(uuid "ce264118-d4e6-4aca-a84a-e2de825f8a1c")
 		)
 		(pin "6"
-			(uuid "268df76a-6d95-4e4b-b1df-e7f25d423b64")
+			(uuid "268df76a-6d95-4e4b-b1df-e7f25d423b67")
 		)
 		(instances
 			(project "Lab_1_Morris_Lin_ASIC_II"
@@ -29552,6 +29992,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 363.22 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 363.22 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -29917,6 +30368,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 96.52 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
 			(at 96.52 189.23 0)
 			(hide yes)
 			(show_name no)
