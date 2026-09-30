@@ -585,6 +585,12 @@
       "Net-(D4-A)": [
         "Power"
       ],
+      "Net-(D6-A)": [
+        "Power"
+      ],
+      "Net-(D6-K)": [
+        "Power"
+      ],
       "Net-(D8-A)": [
         "Power"
       ],
