@@ -14519,7 +14519,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 121.92 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -14997,7 +14997,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
 			(at 39.37 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -15566,7 +15566,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 302.26 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -15861,6 +15861,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 187-CL31B104KBCNFNC "
+			(at 196.85 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "804e8283-0da7-4792-a59e-997393196147")
 		)
@@ -15943,7 +15954,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 322.58 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -16036,7 +16047,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 373.38 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -16530,7 +16541,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 292.1 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -16713,6 +16724,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 859-LTST-C230KRKT "
+			(at 115.57 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "93b74371-cac3-4fce-b041-c552c6f04772")
 		)
@@ -16795,7 +16817,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 383.54 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -16890,6 +16912,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 26.67 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" " 859-LTST-C230KRKT "
+			(at 26.67 243.84 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17473,7 +17506,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
 			(at 64.77 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -17804,7 +17837,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 292.1 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -18222,6 +18255,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 22.86 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" " 187-CL31B105KAHNFNE "
 			(at 22.86 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -18777,7 +18821,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 292.1 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -19234,6 +19278,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 187-CL31A106KAHNNNF "
+			(at 86.36 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e7b3c1a0-1f33-47cb-b607-ff282f71d8f2")
 		)
@@ -19316,7 +19371,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 302.26 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -19409,7 +19464,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 393.7 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -19524,7 +19579,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 123.19 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -19776,7 +19831,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 373.38 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -19869,7 +19924,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 312.42 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -19962,7 +20017,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 312.42 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -20148,6 +20203,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 44.45 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" " 187-CL31B105KAHNFNE "
 			(at 44.45 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -20419,7 +20485,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 322.58 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -20502,6 +20568,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 99.06 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" " 187-CL31A106KAHNNNF "
 			(at 99.06 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -21047,6 +21124,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 22.86 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" " 187-CL31B105KAHNFNE "
 			(at 22.86 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -21732,6 +21820,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 859-LTST-C230KRKT "
+			(at 64.77 243.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6875c74b-ad19-4fff-b6cb-6d74b51f0c70")
 		)
@@ -22336,7 +22435,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 312.42 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -22429,7 +22528,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 393.7 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -22648,7 +22747,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 322.58 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -23266,7 +23365,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 302.26 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -23438,7 +23537,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 312.42 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -23920,7 +24019,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
 			(at 106.68 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -24013,7 +24112,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 292.1 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -24423,7 +24522,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 322.58 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -24606,6 +24705,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 859-LTST-C230KRKT "
+			(at 39.37 243.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a8fc30f8-1e0f-41de-987b-0abfd8fd8319")
 		)
@@ -24688,7 +24798,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 302.26 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -25059,6 +25169,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 212.09 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" " 187-CL31B104KBCNFNC "
 			(at 212.09 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -25446,6 +25567,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 86.36 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" " 187-CL31A106KAHNNNF "
 			(at 86.36 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -26219,6 +26351,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 187-CL31B104KBCNFNC "
+			(at 191.77 250.19 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f8227732-e10e-4f73-89ae-3d39620250f7")
 		)
@@ -26512,7 +26655,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 302.26 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -26763,6 +26906,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 187-CL31A106KAHNNNF "
+			(at 111.76 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3fcdf96b-94c2-4b08-8f35-f4fc655dcf84")
 		)
@@ -26867,7 +27021,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 99.06 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -27604,6 +27758,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 859-LTST-C230KRKT "
+			(at 52.07 243.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1062c8e5-c666-475a-9c31-91420b02baa2")
 		)
@@ -28070,7 +28235,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
 			(at 115.57 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -28423,6 +28588,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 187-CL31B104KBCNFNC "
+			(at 204.47 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "3c7aef6c-d842-453f-a66e-075ca2fdadfc")
 		)
@@ -28505,7 +28681,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 312.42 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -28621,6 +28797,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 187-CL31B105KAHNFNE "
+			(at 44.45 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "17329823-3b88-454d-9f54-e7f4390dd5d2")
 		)
@@ -28726,7 +28913,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
 			(at 52.07 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -28898,7 +29085,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 383.54 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -29310,6 +29497,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 187-CL31B104KBCNFNC "
+			(at 140.97 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "bb647f5d-414e-47dc-bd49-7918106850be")
 		)
@@ -29563,6 +29761,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 214.63 254 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" " 187-CL31B104KBCNFNC "
 			(at 214.63 254 0)
 			(hide yes)
 			(show_name no)
@@ -30089,6 +30298,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 859-LTST-C230KRKT "
+			(at 106.68 236.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "aeb030b4-0198-4a2d-bc42-412ca9a488bd")
 		)
@@ -30171,7 +30391,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 292.1 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -30502,7 +30722,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 363.22 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -30776,7 +30996,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
 			(at 115.57 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -30892,7 +31112,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "660-RK73H2BTTD4700F"
+		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
 			(at 26.67 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -30985,7 +31205,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 322.58 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -31206,6 +31426,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 859-LTST-C230KRKT "
+			(at 115.57 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4c783562-cbbd-4aab-8a4d-58b0bc7c0d8d")
 		)
@@ -31278,6 +31509,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 124.46 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" " 187-CL31A106KAHNNNF "
 			(at 124.46 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -31370,7 +31612,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 363.22 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -31722,6 +31964,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" " 187-CL31B104KBCNFNC "
+			(at 186.69 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1088cdd1-82f6-440c-917f-84909c3615f8")
 		)
@@ -31906,7 +32159,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "71-CRCW1206J-10K-E3 "
+		(property "Mouser Part Number" " 603-RC1206JR-0710KP "
 			(at 100.33 190.5 0)
 			(hide yes)
 			(show_name no)
