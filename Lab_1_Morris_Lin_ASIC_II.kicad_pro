@@ -43,11 +43,11 @@
           "height": 10.16,
           "width": 10.16
         },
-        "silk_line_width": 0.1,
+        "silk_line_width": 0.15,
         "silk_text_italic": false,
         "silk_text_size_h": 1.0,
         "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.1,
+        "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
           "border_display_style": 2,
@@ -570,6 +570,9 @@
       "/LED_Q[1..4]": [
         "Power"
       ],
+      "/~{OE}": [
+        "Power"
+      ],
       "GND": [
         "Power"
       ],
@@ -592,6 +595,9 @@
         "Power"
       ],
       "Net-(D8-A)": [
+        "Power"
+      ],
+      "Net-(D9-A)": [
         "Power"
       ],
       "Net-(J12-Pin_1)": [
@@ -855,7 +861,7 @@
         "uuid": "fd1324de-06cc-4eb6-9701-e191d26a4c5f"
       }
     ],
-    "used_designators": "H1-4,JP1-16,#PWR1-78,U1-3,J1-13,J701,IC1-6,R1-58,C1-13,F1-2,D1-8,TP1-6,Q1-3",
+    "used_designators": "H1-4,JP1-16,#PWR1-78,U1-3,J1-13,J701,IC1-6,R1-58,C1-16,F1-2,D1-11,TP1-6,Q1-3",
     "variants": []
   },
   "sheets": [
