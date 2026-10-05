@@ -1,81 +1,14 @@
 ** Drc report for Lab_1_Morris_Lin_ASIC_II.kicad_pcb **
-** Created on 2026-10-01T15:23:18 **
+** Created on 2026-10-05T14:41:45 **
 ** Report includes: Errors, Exclusions **
 
-****NOTE: Courtyard violations come from custom jumper footprints, non-issue for manufacture****
-
-** Found 20 DRC violations **
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(111.3880 mm, 43.5600 mm): Footprint JP5
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(111.3880 mm, 43.5600 mm): Footprint JP5
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(111.3880 mm, 43.5600 mm): Footprint JP5
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(111.3880 mm, 43.5600 mm): Footprint JP5
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(123.3260 mm, 43.5400 mm): Footprint JP9
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(123.3260 mm, 43.5400 mm): Footprint JP9
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(123.3260 mm, 43.5400 mm): Footprint JP9
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(123.3260 mm, 43.5400 mm): Footprint JP9
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(99.4500 mm, 43.5600 mm): Footprint JP6
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(99.4500 mm, 43.5600 mm): Footprint JP6
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(99.4500 mm, 43.5600 mm): Footprint JP6
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(99.4500 mm, 43.5600 mm): Footprint JP6
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(127.7000 mm, 53.6600 mm): Footprint JP11
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(127.7000 mm, 53.6600 mm): Footprint JP11
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(127.7000 mm, 53.6600 mm): Footprint JP11
-[malformed_courtyard]: Footprint has malformed courtyard (self-intersecting)
-    Local override; error
-    @(127.7000 mm, 53.6600 mm): Footprint JP11
-[courtyards_overlap]: Courtyards overlap
-    Rule: board setup constraints courtyard; error
-    @(69.7000 mm, 90.1192 mm): Footprint J8
-    @(69.6976 mm, 125.6792 mm): Footprint J11
-[courtyards_overlap]: Courtyards overlap
-    Rule: board setup constraints courtyard; error
-    @(69.7000 mm, 90.1192 mm): Footprint J8
-    @(102.7176 mm, 87.5900 mm): Footprint J9
-[courtyards_overlap]: Courtyards overlap
-    Rule: board setup constraints courtyard; error
-    @(69.6976 mm, 125.6792 mm): Footprint J11
-    @(102.7157 mm, 123.1392 mm): Footprint J10
-[courtyards_overlap]: Courtyards overlap
-    Rule: board setup constraints courtyard; error
-    @(102.7176 mm, 87.5900 mm): Footprint J9
-    @(102.7157 mm, 123.1392 mm): Footprint J10
+** Found 0 DRC violations **
 
 ** Found 0 unconnected pads **
 
 ** Found 0 Footprint errors **
 
 ** Ignored checks **
-    - Footprint has no courtyard defined
     - Track endpoint not centered on via
     - Tuning profile track geometries
     - Footprint doesn't match symbol's footprint filters

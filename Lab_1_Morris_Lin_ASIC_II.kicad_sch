@@ -18130,6 +18130,17 @@
 				)
 			)
 		)
+		(property "Mouser Part Number" "649-1012938291203BLF"
+			(at 45.72 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "10"
 			(uuid "73dbdf2f-b9e3-43de-8477-917e5fab83ad")
 		)
@@ -26108,7 +26119,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BSS138"
+		(property "Value" "BSS138P"
 			(at 110.49 247.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26132,7 +26143,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/BSS138P.pdf"
 			(at 109.22 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -26155,7 +26166,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "771-BSS138AK-QR"
+		(property "Mouser Part Number" "771-BSS138P215"
 			(at 104.14 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -26454,6 +26465,17 @@
 			)
 		)
 		(property "KLC_S5.1" ""
+			(at 45.72 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "649-1012938291203BLF"
 			(at 45.72 189.23 0)
 			(hide yes)
 			(show_name no)
