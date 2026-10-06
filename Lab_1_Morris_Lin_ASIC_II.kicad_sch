@@ -6126,7 +6126,7 @@
 		)
 		(uuid "4a6ebb95-4c7f-4d28-8af0-61be1036a2b3")
 	)
-	(text "Select Lines and ~{OE} Indicator LEDs"
+	(text "Select Line Indicator LEDs"
 		(exclude_from_sim no)
 		(at 17.78 214.63 0)
 		(effects
