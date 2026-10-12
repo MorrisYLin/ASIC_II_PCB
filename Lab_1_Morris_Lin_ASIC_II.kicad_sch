@@ -14931,7 +14931,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "120"
 			(at 41.91 236.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14997,7 +14997,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
+		(property "Mouser Part Number" " 71-CRCW1206120RJNEAC "
 			(at 39.37 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -17440,7 +17440,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "120"
 			(at 67.31 236.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17506,7 +17506,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
+		(property "Mouser Part Number" " 71-CRCW1206120RJNEAC "
 			(at 64.77 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -23871,7 +23871,7 @@
 				)
 			)
 		)
-		(property "Value" "SMDH1206B025TF"
+		(property "Value" "SMDH1206B030TF"
 			(at 57.15 21.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23937,7 +23937,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" "603-SMDH1206B025TF "
+		(property "Mouser Part Number" " 603-SMDH1206B030TF "
 			(at 57.15 25.4 90)
 			(hide yes)
 			(show_name no)
@@ -23986,7 +23986,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "120"
 			(at 109.22 228.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24030,7 +24030,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
+		(property "Mouser Part Number" " 71-CRCW1206120RJNEAC "
 			(at 106.68 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -28191,7 +28191,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "120"
 			(at 118.11 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28257,7 +28257,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
+		(property "Mouser Part Number" " 71-CRCW1206120RJNEAC "
 			(at 115.57 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -28869,7 +28869,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "120"
 			(at 54.61 236.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28935,7 +28935,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
+		(property "Mouser Part Number" " 71-CRCW1206120RJNEAC "
 			(at 52.07 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -30952,7 +30952,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "120"
 			(at 118.11 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31018,7 +31018,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
+		(property "Mouser Part Number" " 71-CRCW1206120RJNEAC "
 			(at 115.57 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -31068,7 +31068,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "470"
+		(property "Value" "120"
 			(at 29.21 236.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31134,7 +31134,7 @@
 				)
 			)
 		)
-		(property "Mouser Part Number" " 603-RC1206FR-13470RL "
+		(property "Mouser Part Number" " 71-CRCW1206120RJNEAC "
 			(at 26.67 234.95 0)
 			(hide yes)
 			(show_name no)
